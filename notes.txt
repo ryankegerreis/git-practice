@@ -1,0 +1,9 @@
+Git Test App
+
+Name: Ryan
+Age: 25
+Favorite Color: Green
+
+To Do: 
+Read Advanced GitLog article
+Do Codeschool GitHub Lab and do the Intro to Github lesson
